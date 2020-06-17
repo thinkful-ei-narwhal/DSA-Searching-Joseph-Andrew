@@ -57,6 +57,7 @@ function main() {
 function findOfficer(officerTree) {
   return officerTree.preOrder();
 }
+// This will return a list in order of who'll be next in line
 
 // 7. Max profit
 
